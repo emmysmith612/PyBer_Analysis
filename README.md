@@ -9,4 +9,5 @@ After merging the two Data sets we considered the total weekly fares by city typ
 
 ## Summary 
 Overall Urban citites bring in the most revenue in terms of ride share companies. This could be due to population density and overall need for transportation. Based off of this information it would more beneficial to focus on Urban areas for marketing purposes. 
+
 ![image](https://user-images.githubusercontent.com/114880173/219885147-fec6e91c-cfdb-4f21-82f6-1d3afd078cb0.png)
